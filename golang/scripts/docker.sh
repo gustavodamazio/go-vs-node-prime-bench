@@ -1,1 +1,0 @@
-ocker run -p 8080:8080 --cpus 1 --memory 256m go-lang-http-basic
